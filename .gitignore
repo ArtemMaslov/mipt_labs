@@ -1,0 +1,6 @@
+/.venv
+/.ipynb_checkpoints
+
+*.log
+*.aux
+*.synctex.gz
